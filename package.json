@@ -1,11 +1,10 @@
 {
   "name": "@ligatrix/cookbook",
   "version": "0.1.0",
-  "description": "Public recipes for Ligatrix-style owned business systems.",
+  "description": "Practical recipes for internal tools and business workflows.",
   "type": "module",
   "scripts": {
     "check": "node scripts/check-recipes.mjs"
   },
   "license": "MIT"
 }
-

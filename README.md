@@ -1,6 +1,6 @@
 # Ligatrix Cookbook
 
-Practical recipes for owned business systems.
+Practical recipes for internal tools and business workflows.
 
 Each recipe is public, generic, and safe to reuse. No client implementation is
 included.
@@ -17,4 +17,3 @@ included.
 ```bash
 npm run check
 ```
-
